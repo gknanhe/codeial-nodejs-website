@@ -16,7 +16,7 @@
             <a href="/users/profile/<%= user.id %>">
               
              
-              <img src="http://<%= req_url%>/<%= user.avatar? user.avatar: assetPath('images/empty-avatar.png') %>" alt="avatar" />
+              <img src="<%= user.avatar ? 'http://' + req_url + '/' + user.avatar : 'https://cdn-icons-png.flaticon.com/512/3177/3177440.png' %>" alt="avatar" />
 
 
 

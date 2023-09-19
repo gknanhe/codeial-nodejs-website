@@ -24,17 +24,15 @@
             alt="<%= user.name %>"
             style="margin: auto"
             onclick="window.location.href='/users/profile/<%= user.id %>'"
-            onerror="this.onerror=null; this.src=`<%= assetPath('images/empty-avatar.png') %>`"
             loading="lazy"
           />
           <% }else{ %>
           <img
             class="user-avatar create-post-avatar"
-            src="<%= assetPath('images/empty-avatar.png') %>"
+            src="https://cdn-icons-png.flaticon.com/512/3177/3177440.png"
             alt="<%= user.name %>"
             style="margin: auto"
             onclick="window.location.href='/users/profile/<%= user.id %>'"
-            onerror="this.onerror=null; this.src=`<%= assetPath('images/empty-avatar.png') %>`"
             loading="lazy"
           />
           <% } %>
@@ -87,36 +85,39 @@
           <a href="#" id="loadLess">Load Less</a>
         </div>
       </div> -->
-      <!-- <h4>Friends</h4>
+        <!-- <h4>Friends</h4>
                 <% for(u of friends){%>
                 <p><a href="/users/profile/<%=u.to_user.id%>"><%=u.to_user.name %></a></p>
                 <%}%> -->
-    </div>
-    <!-- </div>
+      </div>
+      <!-- </div>
   </section>
 </div>
 
 <!-- importing this scripts for creating the comments  -->
-    <script src="<%= assetPath('js/home_post_comments.js') %>"></script>
-    <script src="<%= assetPath('js/home_posts.js') %>"></script>
+      <script src="<%= assetPath('js/home_post_comments.js') %>"></script>
+      <script src="<%= assetPath('js/home_posts.js') %>"></script>
 
-    <!-- CHANGE :: import the script file for toggle likes, also run it over for the already present posts and comments on the page -->
-    <script src="<%= assetPath('js/toggle_likes.js') %>"></script>
-    <script>
-      $(".toggle-like-button").each(function () {
-        let self = this;
-        let toggleLike = new ToggleLike(self);
-      });
-    </script>
+      <!-- CHANGE :: import the script file for toggle likes, also run it over for the already present posts and comments on the page -->
+      <script src="<%= assetPath('js/toggle_likes.js') %>"></script>
+      <script>
+        $(".toggle-like-button").each(function () {
+          let self = this;
+          let toggleLike = new ToggleLike(self);
+        });
+      </script>
 
-    <!-- //chat socket  -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.6.1/socket.io.js"></script>
-    <script src="<%= assetPath('js/chat_engine.js') %>"></script>
-    <%if(locals.user){ %>
-    <script>
-      new ChatEngine("user-chat-box", "<%=locals.user.email %>");
-    </script>
-    <%}%>
-    
+      <!-- //chat socket  -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.6.1/socket.io.js"></script>
+      <script src="<%= assetPath('js/chat_engine.js') %>"></script>
+      <%if(locals.user){ %>
+      <script>
+        new ChatEngine("user-chat-box", "<%=locals.user.email %>");
+      </script>
+      <%}%>
+
+      <!-- </section>
+</div> -->
+    </div>
   </section>
 </div>
