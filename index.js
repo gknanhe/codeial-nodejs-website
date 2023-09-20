@@ -6,12 +6,12 @@ const app = express();
 
 //helps in getting new css js files renamed
 require("./config/view-helpers")(app);
+require("dotenv").config();
 
 const cookieParser = require("cookie-parser");
-const port = 8000;
+const port = process.env.CODEIAL_PORT;
 
 // env
-require("dotenv").config();
 
 const db = require("./config/mongoose");
 // const { urlencoded } = require('express');

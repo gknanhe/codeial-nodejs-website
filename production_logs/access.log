@@ -1915,3 +1915,19 @@
 ::1 - - [19/Sep/2023:07:50:13 +0000] "GET /css/post.css.map HTTP/1.1" 404 155 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 ::1 - - [19/Sep/2023:07:50:13 +0000] "GET /css/post.css.map HTTP/1.1" 404 155 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 ::1 - - [19/Sep/2023:07:50:14 +0000] "GET /css/post.css.map HTTP/1.1" 404 155 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+[0mGET / [32m200[0m 3678.436 ms - 16842[0m
+[0mGET /users/sign-in [32m200[0m 7.882 ms - 7570[0m
+[0mPOST /users/create-session [36m302[0m 426.128 ms - 46[0m
+[0mGET / [32m200[0m 2888.498 ms - 26140[0m
+[0mGET /users/profile/65087aec300ec3a062a24784 [32m200[0m 1764.402 ms - 4803[0m
+[0mGET / [32m200[0m 2549.670 ms - 25921[0m
+[0mGET /favicon.ico [33m404[0m 3.849 ms - 150[0m
+[0mPOST /likes/toggle/?id=65087b9d300ec3a062a247d1&type=Post [31m500[0m 30010.926 ms - 35[0m
+[0mPOST /likes/toggle/?id=65087b9d300ec3a062a247d1&type=Post [31m500[0m 30009.071 ms - 35[0m
+[0mPOST /likes/toggle/?id=65087b9d300ec3a062a247d1&type=Post [31m500[0m 30008.050 ms - 35[0m
+[0mPOST /likes/toggle/?id=65087b9d300ec3a062a247d1&type=Post [31m500[0m 30007.674 ms - 35[0m
+[0mPOST /likes/toggle/?id=65087b9d300ec3a062a247d1&type=Post [31m500[0m 30007.272 ms - 35[0m
+[0mGET / [32m200[0m 10587.181 ms - 16842[0m
+::1 - - [20/Sep/2023:02:54:16 +0000] "GET / HTTP/1.1" 200 17040 "http://localhost:8000/users/profile/65087aec300ec3a062a24784" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [20/Sep/2023:02:55:03 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8000/users/profile/65087aec300ec3a062a24784" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+::1 - - [20/Sep/2023:03:55:07 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8000/users/profile/65087aec300ec3a062a24784" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
