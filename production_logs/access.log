@@ -2067,3 +2067,25 @@
 ::1 - - [20/Sep/2023:05:51:10 +0000] "GET /css/post.css.map HTTP/1.1" 404 155 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 ::1 - - [20/Sep/2023:05:51:10 +0000] "GET /css/post.css.map HTTP/1.1" 404 155 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 ::1 - - [20/Sep/2023:05:51:13 +0000] "GET /css/header.css.map HTTP/1.1" 404 157 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+[0mGET /css/layout-cb66663dce.css [33m404[0m 12.608 ms - 164[0m
+[0mGET /css/home-2c7877fce7.css [33m404[0m 10.982 ms - 162[0m
+[0mGET /css/footer-32618ffd9a.css [33m404[0m 8.923 ms - 164[0m
+[0mGET /css/header-8db9a2db88.css [33m404[0m 7.409 ms - 164[0m
+[0mGET /css/post-413c4fdf13.css [33m404[0m 18.024 ms - 162[0m
+[0mGET /css/chat_box-0fdecd8423.css [33m404[0m 14.016 ms - 166[0m
+[0mGET /js/post-d41d8cd98f.js [33m404[0m 13.473 ms - 160[0m
+[0mGET /js/home_post_comments-c2ea56a1e5.js [33m404[0m 4.985 ms - 174[0m
+[0mGET /js/home_posts-fd7837b358.js [33m404[0m 5.896 ms - 166[0m
+[0mGET /js/toggle_likes-c8e1b4edce.js [33m404[0m 3.452 ms - 168[0m
+[0mGET /js/chat_engine-041f180973.js [33m404[0m 3.787 ms - 167[0m
+[0mGET /css/layout-cb66663dce.css [33m404[0m 10.478 ms - 164[0m
+[0mGET /css/footer-32618ffd9a.css [33m404[0m 19.573 ms - 164[0m
+[0mGET /css/header-8db9a2db88.css [33m404[0m 21.075 ms - 164[0m
+[0mGET /css/home-2c7877fce7.css [33m404[0m 21.061 ms - 162[0m
+[0mGET /css/chat_box-0fdecd8423.css [33m404[0m 35.377 ms - 166[0m
+[0mGET /css/post-413c4fdf13.css [33m404[0m 36.805 ms - 162[0m
+[0mGET /js/post-d41d8cd98f.js [33m404[0m 5.821 ms - 160[0m
+[0mGET /js/post-d41d8cd98f.js [33m404[0m 7.509 ms - 160[0m
+[0mGET /js/post-d41d8cd98f.js [33m404[0m 5.832 ms - 160[0m
+[0mGET /favicon.ico [33m404[0m 4.555 ms - 150[0m
+::1 - - [20/Sep/2023:11:22:19 +0000] "GET / HTTP/1.1" 304 - "http://localhost:8000/users/sign-in" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
