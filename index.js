@@ -9,7 +9,7 @@ require("./config/view-helpers")(app);
 require("dotenv").config();
 
 const cookieParser = require("cookie-parser");
-const port = process.env.CODEIAL_PORT;
+const port = process.env.PORT;
 
 // env
 
