@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "sass-watch": "sass --watch assets/scss:assets/css",
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prod_start": "CODEIAL_ENVIRONMENT=production node index.js"
+    "prod_start": "CODEIAL_ENVIRONMENT=production nodemon index.js"
   },
   "keywords": [
     "social"
