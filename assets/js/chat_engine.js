@@ -46,7 +46,7 @@ class ChatEngine {
           chatroom: "codeial",
         });
       }
-      console.log("chat url: ", process.env.CODEIAL_SOCKET_SERVER_URL);
+      // console.log("chat url: ", process.env.CODEIAL_SOCKET_SERVER_URL);
 
       $("#chat-message-input").val("");
 
