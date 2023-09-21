@@ -1,11 +1,11 @@
-require("dotenv").config();
+// require("dotenv").config();
 
 class ChatEngine {
   constructor(chatBoxId, userEmail) {
     this.chatBox = $(`#${chatBoxId}`);
     this.userEmail = userEmail;
 
-    this.socket = io.connect(process.env.CODEIAL_SOCKET_SERVER_URL); //("http://localhost:2000");
+    this.socket = io.connect("http://localhost:2000"); //(process.env.CODEIAL_SOCKET_SERVER_URL); //;
 
     //if email is present of user then only establish the connection
     if (this.userEmail) {
