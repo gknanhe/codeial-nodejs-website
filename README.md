@@ -118,28 +118,26 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 ## 💻 Screens
 
 <p align="justify">
-<img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700636-a8e6c78a-8217-4da5-9bd9-0088c7f2c6a5.png">
-<img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700656-440bf67e-ae56-4866-9e2f-0be51d50ae08.png">
-<img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700660-7474fd83-6fde-4504-9693-31e7975b4244.png">
-<img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700664-7847d25b-7e9e-4cdc-b127-c7021b27b109.png">
+<img height="200" width="400" src="https://github.com/gknanhe/codeial-nodejs-website/assets/74034986/21944cea-0d88-4eb6-be3f-92cd19e99272">
+<img height="200" width="400" src="https://github.com/gknanhe/codeial-nodejs-website/assets/74034986/e025dd34-0c41-4827-875d-1f7fa841f9b8">
+<img height="600" width="300" src="https://github.com/gknanhe/codeial-nodejs-website/assets/74034986/141a10bb-7e58-40e5-9332-3a3e6992f16a">
+<!-- <img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700664-7847d25b-7e9e-4cdc-b127-c7021b27b109.png">
 <img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700669-ea27577e-51c9-4479-bf73-2c825d2838f7.png">
 <img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700672-33cb5a71-7d83-4401-81ba-db33e6b43bd4.png">
 <img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700675-467a3e48-754e-4040-8c97-1afae9512efb.png">
 <img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700678-8abbd09c-4e99-4bb8-81c8-1c984fbad8ab.png">
 <img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700681-c4600609-87ff-486f-bb16-b4c3225565fc.png">
 <img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700685-692a6572-3b8b-4c34-9f20-415732fabfc4.png">
-<img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700687-12b3894f-d1ee-4df6-aa81-c949981df9b3.png">
+<img height="200" width="400" src="https://user-images.githubusercontent.com/76626529/171700687-12b3894f-d1ee-4df6-aa81-c949981df9b3.png"> -->
 </p>
 <br/>
 
 ## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
 
-> [Twitter](https://twitter.com/ayush_codes)
 
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
+> [LinkedIn](https://www.linkedin.com/in/ganesh-nanhe-928ab2220/)
 
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
+
 
 I hope you like the project. Thanks for reading :)
