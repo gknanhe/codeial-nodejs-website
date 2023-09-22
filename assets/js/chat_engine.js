@@ -5,7 +5,7 @@ class ChatEngine {
     this.chatBox = $(`#${chatBoxId}`);
     this.userEmail = userEmail;
 
-    this.socket = io.connect("http://localhost:2000"); //(process.env.CODEIAL_SOCKET_SERVER_URL); //;
+    this.socket = io.connect("http://16.170.173.59:2000"); //(http:localhost:2000); //;
 
     //if email is present of user then only establish the connection
     if (this.userEmail) {
