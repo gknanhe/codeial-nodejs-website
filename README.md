@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
   <img height="400" width="800" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74034986/269865169-da5d8596-784b-4815-b4e5-eadc0d2cb7e9.png">
-<img height="400" width="800" src="https://user-images.githubusercontent.com/76626529/182868886-3f26cbc9-f619-4250-8951-0d834805251c.png">
+<!-- <img height="400" width="800" src="https://user-images.githubusercontent.com/76626529/182868886-3f26cbc9-f619-4250-8951-0d834805251c.png"> -->
 </p>
 
 ## ⭐ Introduction
@@ -110,9 +110,8 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://the-social-book.onrender.com)
+> ## Checkout the Website [Web Application](http://16.170.173.59/)
 >
-> ## Checkout the Application Demo Video [YouTube](https://youtu.be/Rje8wN1JQK4)
 
 <br/>
 
