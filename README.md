@@ -2,7 +2,8 @@
 
 <br/>
 <p align="center">
-  <img height="400" width="800" src="https://raw.githubusercontent.com/gknanhe/git-images/master/codeial%20img/home.png">
+  <img height="400" width="800" src="![Screenshot from 2023-09-18 19-43-20](https://github.com/gknanhe/codeial-nodejs-website/assets/74034986/da5d8596-784b-4815-b4e5-eadc0d2cb7e9)
+">
 <img height="400" width="800" src="https://user-images.githubusercontent.com/76626529/182868886-3f26cbc9-f619-4250-8951-0d834805251c.png">
 </p>
 
