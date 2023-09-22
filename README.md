@@ -109,7 +109,9 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](http://16.170.173.59/)
+> ## Checkout the Website [Web Application](https://the-social-book.onrender.com)
+>
+> ## Checkout the Application Demo Video [YouTube](https://youtu.be/Rje8wN1JQK4)
 
 <br/>
 
@@ -132,6 +134,12 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🐦 Follow Me:
 
-> [LinkedIn](https://www.linkedin.com/in/ganesh-nanhe-928ab2220/)
+> [Dev Community](https://dev.to/ayushkanduri)
+
+> [Twitter](https://twitter.com/ayush_codes)
+
+> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
+
+> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
 
 I hope you like the project. Thanks for reading :)
