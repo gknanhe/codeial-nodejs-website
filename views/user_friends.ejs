@@ -10,12 +10,11 @@
         <div class="friendUser">
           <img
             class="user-avatar create-post-avatar"
-            src="	http://<%= req_url%>/<%= u.to_user.avatar? u.to_user.avatar: https://cdn-icons-png.flaticon.com/512/3177/3177440.png %>"
+            src="<%= u.to_user.avatar ? 'http://' + req_url + '/' +  u.to_user.avatar : 'https://cdn-icons-png.flaticon.com/512/3177/3177440.png' %>"
             alt="<%=u.to_user.name %>"
             onclick="window.location.href='/users/profile/<%=u.to_user._id%>'"
             loading="lazy"
           />
-
           <div class="friendName"><%= u.to_user.name %></div>
         </div>
       </a>
