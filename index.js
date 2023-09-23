@@ -123,6 +123,3 @@ app.listen(port, function (err) {
 
   console.log(`runnig on port: ${port}`);
 });
-
-// for development mode use this in getPackedSettings.json
-// "prod_start": "CODEIAL_ENVIRONMENT=production nodemon index.js"
