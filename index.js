@@ -39,6 +39,7 @@ const chatSockets = require("./config/chat_sockets").chatSockets(chatServer);
 chatServer.listen(process.env.CODEIAL_SOCKET_PORT);
 console.log("chat server is listening on port 2000");
 const path = require("path");
+const { getPackedSettings } = require("http2");
 
 console.log("paths assets", path.join(__dirname, env.asset_path, "/scss"));
 
@@ -122,3 +123,6 @@ app.listen(port, function (err) {
 
   console.log(`runnig on port: ${port}`);
 });
+
+// for development mode use this in getPackedSettings.json
+// "prod_start": "CODEIAL_ENVIRONMENT=production nodemon index.js"
