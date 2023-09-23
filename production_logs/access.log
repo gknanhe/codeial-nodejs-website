@@ -2546,3 +2546,7 @@
 ::1 - - [23/Sep/2023:04:46:24 +0000] "GET /css/user_friends.css.map HTTP/1.1" 404 163 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 ::1 - - [23/Sep/2023:04:46:25 +0000] "GET /css/header.css.map HTTP/1.1" 404 157 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 ::1 - - [23/Sep/2023:04:47:09 +0000] "GET /users/profile/65085594df9b343d3c55841b HTTP/1.1" - - "http://localhost:8000/peoples" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+[0mGET / [32m200[0m 2038.365 ms - 18044[0m
+[0mGET /users/sign-in [32m200[0m 18.916 ms - 7570[0m
+[0mPOST /users/create-session [36m302[0m 396.133 ms - 46[0m
+[0mGET / [32m200[0m 4495.152 ms - 28475[0m
