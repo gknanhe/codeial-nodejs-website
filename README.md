@@ -9,7 +9,7 @@
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://the-social-book.onrender.com)
+> ## Checkout the Website [Web Application](http://16.170.173.59/)
 
 <br/>
 
